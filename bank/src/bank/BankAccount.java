@@ -9,11 +9,11 @@ public class BankAccount {
         this.balance = balance;
     }
 
-    public String getOwner() { // Dodano public
+    public String getOwner() { 
         return owner;
     }
 
-    public double getBalance() {  // Zmieniono na public
+    public double getBalance() { 
         return balance;
     }
 }
